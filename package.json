@@ -1,0 +1,12 @@
+{
+  "name": "smtp_perl",
+  "version": "1.0.0",
+  "main": "smtp_perl.pl",
+  "scripts": {
+    "test": "smtp_perl.bat"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
